@@ -79,3 +79,7 @@ All objects have a material/texture - 15p (yes, even the default ones)
 All materials in this scene either came pre-packaged with Unity or with the assets they were used on.
 
 Skybox (downloaded from https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633) - 15p
+
+Total: 30p
+
+Overall total: 90p
